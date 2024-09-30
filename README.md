@@ -1,2 +1,10 @@
-# clo835_summer2023_assignment1_terraform
-clo835_summer2023_assignment1_terraform
+# To create the infrastructure using terraform
+
+tf init
+tf validate
+tf apply --auto-approve
+
+# To Destroy the infrastructure
+
+tf destroy
+
